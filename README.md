@@ -9,6 +9,7 @@ Thank you to the Bryce Canyon County (BCC) community for assisting in research!
 
 Installation: 
 - Download the repository
-- Extract and add to your server resource folders
+- Extract and rename the folder to yotes_pedblocker
+- Add entire folder to your server resources
 - Ensure yotes_pedblocker in your server.cfg
 - Restart your server
