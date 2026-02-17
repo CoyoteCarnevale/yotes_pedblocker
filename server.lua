@@ -6,7 +6,7 @@ end
 
 AddEventHandler("entityCreating", function(entity)
     if not DoesEntityExist(entity) then return end
-    if GetEntityType(entity) ~= 1 then return end -- 1 = Ped
+    if GetEntityType(entity) ~= 1 then return end
 
     local model = GetEntityModel(entity)
 
