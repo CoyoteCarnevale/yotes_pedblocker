@@ -6,6 +6,7 @@ I created this script after being unable to find any existing repositories that 
 Currently the script is set to prevent the underage ped models (IE, the orphan teenagers in Saint Denis) from spawning, but you could add any ped to the list that you wanted at the top of the client.lua!
 
 Thank you to the Bryce Canyon County (BCC) community for assisting in research! 
+Thank you Outsider for assisting in optimization!
 
 Installation: 
 - Download the repository
