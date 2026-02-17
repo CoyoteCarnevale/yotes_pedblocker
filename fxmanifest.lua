@@ -6,11 +6,8 @@ description 'Prevents peds from spawning serverwide.'
 version '1.0.2'
 author 'CoyoteCarnevale'
 
-shared_scripts {
-    'config.lua'
-}
-
 server_scripts {
+    'config.lua',
     'server.lua'
 }
 
